@@ -1,4 +1,4 @@
-import { AiOutlineCloseCircle, AiOutlineSearch} from 'react-icons/Ai';
+import { AiOutlineCloseCircle, AiOutlineSearch} from 'react-icons/ai';
 import {BsHouseDoor } from 'react-icons/bs';
 import {CiLocationOn } from 'react-icons/ci';
 
